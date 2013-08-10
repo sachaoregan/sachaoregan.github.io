@@ -312,3 +312,8 @@ h1 a:visited {
 	
 }
 
+.footer {
+	border-top: 1px dotted #cbcbcb;
+	color: #a9a9a9;
+	padding-top: 10px;
+}
