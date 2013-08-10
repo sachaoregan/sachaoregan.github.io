@@ -67,8 +67,7 @@
 	h1, h2, h3, h4, h5, h6 {
 		color: #181818;
 		/*font-family: "Georgia", "Times New Roman", serif;*/
-		font-weight: bold; 
-		text-align: center; }
+		font-weight: bold; }
 	h1 a, h2 a, h3 a, h4 a, h5 a, h6 a { font-weight: inherit; }
 	h1 { font-size: 30px; line-height: 35px; margin-bottom: 14px;}
 	h2 { font-size: 24px; line-height: 23px; margin-bottom: 10px; }
@@ -78,7 +77,9 @@
 	h6 { font-size: 14px; line-height: 21px; }
 	.subheader { color: #777; }
 
-	p { margin: 0 0 20px 0; }
+	p { margin: 0 0 20px 0;
+	text-align: left;
+}
 	p img { margin: 0; }
 	p.lead { font-size: 21px; line-height: 27px; color: #777;  }
 
@@ -98,7 +99,9 @@
 
 /* #Links
 ================================================== */
-	a, a:visited { color: #268bd2; text-decoration: underline; outline: 0; }
+	a, a:visited { color: #268bd2; text-decoration: none; outline: 0;
+	border-bottom: 1px dotted #949494;
+}
 	a:hover, a:focus { color: #104a73; }
 	p a, p a:visited { line-height: inherit; }
 
@@ -272,15 +275,33 @@
 
 
 .headshot {
-	float: left;
-	margin: 8px 30px 10px 0px;
+	float: right;
+	margin: 0 0 10px 20px;
 }
 
 .sacha{
 	padding-bottom: 5px;
 	font-size: 26px;
 	font-weight: bold;
-	/*border-bottom: 0px solid #dfdfdf;*/
-	/*margin-bottom: 12px;*/
-	/*color: #353535;*/
+}
+
+.sidephotostop {
+	float: left;
+	margin: 55px 30px 25px 0;
+}
+
+.sidephotos {
+	float: left;
+	margin: 0px 30px 25px 0;
+}
+
+div.inner {
+    padding: 0 0 0 10px;
+    overflow:auto;
+}
+
+h1 a {
+	color: #181818;
+	border: none;
+	
 }
