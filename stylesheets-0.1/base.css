@@ -305,3 +305,10 @@ h1 a {
 	border: none;
 	
 }
+
+h1 a:visited {
+	color: #181818;
+	border: none;
+	
+}
+
