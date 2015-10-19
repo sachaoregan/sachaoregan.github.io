@@ -10,12 +10,17 @@ B.Sc. Honors Biology with Distinction, 2006-10\
 Thesis title: Assessing the validity of quantitative nuclear magnetic resonance (QNMR) spectroscopy as a technique for determining body composition of arthropods.\
 Supervisors: Dr. Graeme Taylor and Dr. Chris Guglielmo
 
-#Experience
+#Employment
+
+##Environmental Scientist
+Stantec Consulting Ltd., British Columbia, 2013-Present
+
+I have been actively involved in all components of the environmental assessment process as well as Fisheries Act permitting for marine and freshwater components of oil and gas Projects. I am experienced in writing environmental assessments and technical data reports, permitting under the Fisheries Act, and I am proficient in data management, analysis, and visualization in R. My field experience includes pond-breeding amphibian, breeding bird, nocturnal raptor call-playback surveys, wildlife feature, intertidal, eelgrass, and subtidal ROV surveys in coastal BC habitats, and marine mammal surveys in both BC and the Saint Lawrence. 
 
 ##Independent Contractor
 Hakai Network for Coastal People, Ecosystems and Management, British Columbia, June 2013
 
-I am conducting interviews with commercial sea cucumber, sea urchin, and geoduck fisherman to examine local-level trends in the fishery and to survey perceptions about the sustainability of the fisheries.
+I conducted interviews with commercial sea cucumber, sea urchin, and geoduck fisherman to examine local-level trends in the fishery and to survey perceptions about the sustainability of the fisheries.
 
 ##Independent Contractor
 Ministry of Forests, Lands and Natural Resource Operations, British Columbia, March 2013
@@ -49,7 +54,8 @@ Yee, D.A., **S.M. O'Regan**, B. Wohlfahrt, and S.M. Vamosi. Variation in prey-sp
 
 Serena, A.A., R.G. Munshaw, W.J. Palen, S.A. Combes, and **S.M. O’Regan**. Thermal performance assays and species distribution models reveal climate vulnerability of temperate amphibians. *Journal of Biogeography*. (In press) 
 
-Phillis, C.C.﹡, **S.M. O’Regan﹡**, S.J. Green﹡, J.E.B. Bruce﹡, S.C. Anderson, J. Linton, Earth2Ocean Research Derby, and B. Favaro. 2013. Multiple pathways to conservation success. *Conservation Letters*. 6: 98-106.(﹡Authors contributed equally; listed in reverse alphabetical order) [pdf](https://dl.dropboxusercontent.com/u/32597037/Phillis%20et%20al.%202013.pdf)
+Phillis, C.C.﹡, **S.M. O’Regan﹡**, S.J. Green﹡, J.E.B. Bruce﹡, S.C. Anderson, J. Linton, Earth2Ocean Research Derby, and B. Favaro. 2013. Multiple pathways to conservation success. *Conservation Letters*. 6: 98-106.
+(﹡Authors contributed equally; listed in reverse alphabetical order) [pdf](https://dl.dropboxusercontent.com/u/32597037/Phillis%20et%20al.%202013.pdf)
 
 **O’Regan, S.M.**, C.G. Guglielmo, and G.M. Taylor. 2012. Measurement of arthropod body composition using quantitative magnetic resonance. *Invertebrate Biology*. 131: 216–233. [pdf](https://dl.dropboxusercontent.com/u/32597037/O%27Regan%20et%20al.%202012.pdf)
 
